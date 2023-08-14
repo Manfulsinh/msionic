@@ -1,0 +1,33 @@
+
+ion-tab-bar {
+    background-color: #f8f8f8; 
+    border-top: 1px solid #e0e0e0; 
+}
+
+
+ion-tab-button[aria-selected="true"] {
+    color: #007aff; 
+}
+
+
+ion-tab-button {
+    color: #7a7a7a; 
+}
+
+
+ion-tab-button:active {
+    background-color: #f0f0f0; 
+}
+
+ion-tab-button ion-icon {
+    font-size: 24px;
+    margin-bottom: 5px; 
+}
+
+ion-tab-button[_ngcontent-ng-c3750714785]   ion-label[_ngcontent-ng-c3750714785] {
+    font-size: 16px;
+    font-weight: 500;
+    color: #383a3e;
+}
+
+

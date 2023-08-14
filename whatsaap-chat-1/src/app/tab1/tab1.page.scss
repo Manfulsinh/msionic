@@ -1,0 +1,62 @@
+
+ion-header {
+    background-color: #25D366; 
+    border-bottom: 1px solid #eee;
+    height: 500px;
+}
+
+ion-toolbar {
+    color: white;
+}
+
+
+ion-toolbar ion-icon {
+    font-size: 24px;
+    color: white; 
+}
+
+
+ion-tab-bar {
+    --background:#128c7e;
+    border-top: 1px solid #eee;
+}
+
+
+ion-tab-button {
+    color: #ffffff; 
+}
+
+ion-tab-button.ion-selected {
+    color: #25D366; 
+}
+ion-tab-button
+ion-tab-bar ion-icon {
+    font-size: 24px;
+}
+
+
+ion-tab-button ion-label {
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+
+p ion-icon {
+
+  font-size: 16px;
+  vertical-align: middle;
+}
+
+.red {
+  color:#43b5af;
+}
+
+
+
+
+
+
+
+
+
+
